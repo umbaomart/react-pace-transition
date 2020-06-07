@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-pace-transition/static/css/main.337808cb.chunk.css",
-    "main.js": "/react-pace-transition/static/js/main.4cb4c3d6.chunk.js",
-    "main.js.map": "/react-pace-transition/static/js/main.4cb4c3d6.chunk.js.map",
+    "main.js": "/react-pace-transition/static/js/main.c26eca48.chunk.js",
+    "main.js.map": "/react-pace-transition/static/js/main.c26eca48.chunk.js.map",
     "runtime-main.js": "/react-pace-transition/static/js/runtime-main.d9e5f8ff.js",
     "runtime-main.js.map": "/react-pace-transition/static/js/runtime-main.d9e5f8ff.js.map",
     "static/js/2.b5ba7806.chunk.js": "/react-pace-transition/static/js/2.b5ba7806.chunk.js",
     "static/js/2.b5ba7806.chunk.js.map": "/react-pace-transition/static/js/2.b5ba7806.chunk.js.map",
     "index.html": "/react-pace-transition/index.html",
-    "precache-manifest.759d250cb76ec514edc9f0c218c25547.js": "/react-pace-transition/precache-manifest.759d250cb76ec514edc9f0c218c25547.js",
+    "precache-manifest.7ca9b9849d78d188a3d943ac48aea1d2.js": "/react-pace-transition/precache-manifest.7ca9b9849d78d188a3d943ac48aea1d2.js",
     "service-worker.js": "/react-pace-transition/service-worker.js",
     "static/css/main.337808cb.chunk.css.map": "/react-pace-transition/static/css/main.337808cb.chunk.css.map",
     "static/js/2.b5ba7806.chunk.js.LICENSE.txt": "/react-pace-transition/static/js/2.b5ba7806.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d9e5f8ff.js",
     "static/js/2.b5ba7806.chunk.js",
     "static/css/main.337808cb.chunk.css",
-    "static/js/main.4cb4c3d6.chunk.js"
+    "static/js/main.c26eca48.chunk.js"
   ]
 }
